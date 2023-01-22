@@ -1,5 +1,5 @@
 # Master's in Data Science Application
-### Collection of Notable Data Science Projects
+## Collection of Notable Data Science Projects
 #### Repository made by Arianne N. Pastrana
 
 
