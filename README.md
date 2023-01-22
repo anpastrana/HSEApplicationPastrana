@@ -1,6 +1,6 @@
 # Master's in Data Science Application
-## Collection of Notable Data Science Projects
-## Repository made by Arianne N. Pastrana
+### Collection of Notable Data Science Projects
+### Repository made by Arianne N. Pastrana
 
 
 This repository was created by myself, Arianne N. Pastrana, and contains Data Science Projects implemented over the course of my Minor in Data Science. This repository is a collection of notable student projects, acting as part of a collection for my application to the Master's in Data Science of the Higher School of Economics. This repository is a supplement to the PDF versions of the Python notebooks submitted in the application, such that the admissions committee may peruse the actual code.
