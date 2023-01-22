@@ -25,10 +25,10 @@ To run the notebook found in the GitHub link, it is necessary that Python and th
 
 ### C. Contributors
 The following are the students who contributed to the project:
-Arianne N. Pastrana - arianne_pastrana@dlsu.edu.ph 
-Amanda Limjoco - amanda_limjoco@dlsu.edu.ph 
-Enrico Miguel Portugal - enrico_miguel_portugal@dlsu.edu.ph 
-Isaiah Dela Cruz - isaiah_delacruz@dlsu.edu.ph 
+1. Arianne N. Pastrana - arianne_pastrana@dlsu.edu.ph 
+2. Amanda Limjoco - amanda_limjoco@dlsu.edu.ph 
+3. Enrico Miguel Portugal - enrico_miguel_portugal@dlsu.edu.ph 
+4. Isaiah Dela Cruz - isaiah_delacruz@dlsu.edu.ph 
 
 
 ### D.  Precise Contribution of Applicant Arianne N. Pastrana
