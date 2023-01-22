@@ -9,7 +9,7 @@ State data from 2014, 2017, and 2019 was obtained from Our World in Data, Statis
 Findings indicate that higher concentrations of republicanism, religiosity, and older age were significantly correlated with lower vaccination rates within a state, ceteris paribus. The study recommends personalizing the promotion of the COVID-19 vaccine, working within institutions trusted by the demographics less likely to opt into a vaccine and making use of monetary incentives to work around persistent mistrust of the health sector. The project also recommends expanding the study further via OLS Regression.
 
 ### B. Running Requirements
-To run the notebook found in the GitHub link, it is necessary that Python and the following Python packages are installed:
+To run the notebook (.ipnyb) found in the GitHub link, it is necessary that Python and the following Python packages are installed:
 1. Numpy
 2. Pandas
 3. Matplotlib
