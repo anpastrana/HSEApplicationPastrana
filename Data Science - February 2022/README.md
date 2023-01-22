@@ -12,7 +12,7 @@ Findings indicate that higher concentrations of republicanism, religiosity, and 
 To run the notebook found in the GitHub link, it is necessary that Python and the following Python packages are installed:
 1. Numpy
 2. Pandas
-3.Matplotlib
+3. Matplotlib
 4. Scipy
 5. Seaborn
 <br>
