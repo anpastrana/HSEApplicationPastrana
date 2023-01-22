@@ -1,7 +1,7 @@
 # Machine Learning Project - June 2022
 # Getting Ready: A Study of Socioeconomic and Cultural Factors affecting Climate Change Readiness of ASEAN and G7 Nations
 
-### Project Description
+### A. Project Description
 The project’s title is “A Study of Socioeconomic and Cultural Factors affecting Climate Change Readiness of ASEAN and G7 Nations.” It was completed as part of the requirements for the course DATA103 (Introduction to Machine Learning). This was a data science project that utilized Hyperparameter Training: RFE Feature Selection, Model Training through Root Mean Square Error, Mean Absolute Error, and R2 with train-test splits in order to use the best-suited statistical model to explore the research objective. SHAP Global and Local Explainability was also used to explore the findings. The research objective was to determine the relationship of certain socioeconomic and cultural factors with the climate change readiness of ASEAN and G7 nations. The results for each group were compared against each other, to determine the similarities and differences in what affected climate change readiness for each nation group.
 
 Country data from 1995 to 2020 was obtained from the University of Notre Dame’s Global Adaptation Index and the World Bank. This data ranges across a variety of variables, from climate change readiness, ecosystem resilience, democracy index, etc. This data was wrangled and cleaned into workable datasets via Python. 
