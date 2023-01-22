@@ -21,6 +21,7 @@ To run the notebook found in the GitHub link, it is necessary that Python and th
 8. Linearmodels
 9. Plotly
 10. Sklearn
+After installing Python and the above packages, please run the notebook in JupyterLab. 
 
 
 ### C. Contributors
